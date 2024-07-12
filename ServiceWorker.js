@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-suica-1.0";
 const contentToCache = [
     "Build/WEBGL.loader.js",
-    "Build/WEBGL.framework.js.br",
-    "Build/WEBGL.data.br",
-    "Build/WEBGL.wasm.br",
+    "Build/WEBGL.framework.js.unityweb",
+    "Build/WEBGL.data.unityweb",
+    "Build/WEBGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
